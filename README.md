@@ -44,9 +44,10 @@ Os dados são coletados e armazenados durante o período acima citado,os dados c
  ## 3º mini projeto
  
 O 3º mini projeto tem o objetivo de analisar dois bancos de dados e analisar quanto foi gasto com medicamentos durante o ultimos mês.
+
 Bancos de dados:
-    1) Atendimentos : contendo informações sobre os atendimentos realizados em um consultório/hospital/petshop, como codigo do atendimento, código do medicamento e quantidade do medicamento; e 
-    2) Medicamentos: contendo informações sobre os medicamentos usados pelo consultório/hospital/petshop, como código do medicamento e preço da unidade.
+ 1) Atendimentos : contendo informações sobre os atendimentos realizados em um consultório/hospital/petshop, como codigo do atendimento, código do medicamento e quantidade do medicamento; e 
+ 2) Medicamentos: contendo informações sobre os medicamentos usados pelo consultório/hospital/petshop, como código do medicamento e preço da unidade.
 Os dados são coletados e armazenados durante o período acima citado,os dados consistem em CPF e o valor de cada compra realizada pelo cliente na loja.
 
 
