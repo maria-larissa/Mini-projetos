@@ -86,6 +86,28 @@ Informações das pessoas:
 **Versioning**
  
 1.0.0.0
+
+
+
+## 5º mini projeto
+ 
+O 5º mini projeto tem o objetivo de gerar um relatório sobre produtos, que oferecem o maior risco ao meio ambiente, de algumas industrias e retornar a quantidade de produtos.
+
+Bancos de dados:
+ 1) Industrias: dados das industrias.
+ 2) Produtos: dados de todos os produtos de cada industria.
+
+**Technology**
+ 
+* C version  c17
+
+**IDE Used**
+ 
+* Vscode
+ 
+**Versioning**
+ 
+1.0.0.0
 ## Authors
  
 * **Maria Larissa**: @maria-larissa (https://github.com/maria-larissa)
