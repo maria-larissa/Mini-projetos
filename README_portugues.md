@@ -111,7 +111,7 @@ Bancos de dados:
 1.0.0.0
 ## Autores
  
-* **Maria Larissa**: @maria-larissa (https://github.com/maria-larissa)
+* **Maria Larissa**: [@maria-larissa](https://github.com/maria-larissa)
  
  
 Siga-me no github!
