@@ -114,7 +114,7 @@ Databases:
 
 ## Authors
 
-Maria Larissa: @maria-larissa (https://github.com/maria-larissa)
+Maria Larissa: [@maria-larissa](https://github.com/maria-larissa)
 
 Please follow github and join us! 
 
