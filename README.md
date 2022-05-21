@@ -1,4 +1,4 @@
-#### [Versão em português](/README_portugues)
+#### [Versão em português](/README_portugues.md)
 
 # My first C mini projects
 
