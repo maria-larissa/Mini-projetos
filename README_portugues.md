@@ -1,3 +1,4 @@
+#### [English version](/README.md)
 # Meus primeiros mini-projetos em C
 
 Este repositório possui códigos um pouco mais elaborados e avançados de alguns mini-projetos feitos por mim durante a cadeira "introdução à programação" no curso de Matemática Computacional.
